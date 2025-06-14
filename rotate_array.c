@@ -1,4 +1,4 @@
-//The problem is to rotate a given array to the right by k steps, meaning each element is shifted k positions to the right, with wrap-around.
+//The problem is to rotate a given array to the left by k steps, meaning each element is shifted k positions to the right, with wrap-around.
 #include <stdio.h>
 int main()
 {
